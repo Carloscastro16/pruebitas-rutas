@@ -1,0 +1,7 @@
+{
+  "name": "pruebitas-rutas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
